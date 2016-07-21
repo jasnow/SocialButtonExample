@@ -119,7 +119,7 @@ GEM
     social-share-button (0.3.1)
       coffee-rails
       sass-rails
-    sprockets (3.6.3)
+    sprockets (3.7.0)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.1.1)
