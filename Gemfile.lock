@@ -73,10 +73,8 @@ GEM
     minitest (5.9.1)
     multi_json (1.12.1)
     nio4r (1.2.1)
-    nokogiri (1.6.8)
+    nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
-      pkg-config (~> 1.1.7)
-    pkg-config (1.1.7)
     rack (2.0.1)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -116,7 +114,7 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    social-share-button (0.6.0)
+    social-share-button (0.8.0)
       coffee-rails
       sass-rails
     sprockets (3.7.0)
