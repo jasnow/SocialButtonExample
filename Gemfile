@@ -11,7 +11,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'social-share-button'
 
-gem 'sdoc', '1.0.0.beta2', group: :doc # LOCKED DOWN
+gem 'sdoc', '1.0.0.rc1', group: :doc # LOCKED DOWN
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
