@@ -16,7 +16,7 @@ gem 'sdoc', '1.0.0.rc1', group: :doc # LOCKED DOWN
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-# gem 'therubyracer',  platforms: :ruby
+# gem 'therubyracer', platforms: :ruby
 #
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
