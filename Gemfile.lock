@@ -176,7 +176,7 @@ DEPENDENCIES
   sass-rails
   sdoc
   social-share-button
-  sqlite3
+  sqlite3 (= 1.3.13)
   turbolinks
   tzinfo-data
   uglifier
