@@ -5,10 +5,10 @@ gem 'rails', '6.0.0.beta3'
 gem 'sqlite3'
 gem 'sass-rails'
 gem 'uglifier'
-gem 'coffee-rails'
+gem 'coffee-rails', git: 'https://github.com/rails/coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
-gem 'jbuilder'
+gem 'jbuilder', git: 'https://github.com/rails/jbuilder'
 gem 'social-share-button'
 
 gem 'sdoc', group: :doc
