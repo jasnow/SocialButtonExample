@@ -177,7 +177,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-rails
   jbuilder!
   jquery-rails
   rails (= 6.0.0.rc1)
