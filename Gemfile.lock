@@ -135,7 +135,7 @@ GEM
       tilt
     sdoc (1.0.0)
       rdoc (>= 5.0)
-    social-share-button (1.2.0)
+    social-share-button (1.2.1)
       coffee-rails
     sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
