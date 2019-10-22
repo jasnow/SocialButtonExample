@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'social-share-button'
+gem 'brakeman'
 
 gem 'sdoc', group: :doc
 
