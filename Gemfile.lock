@@ -140,7 +140,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (2.0.3)
+    sdoc (2.0.4)
       rdoc (>= 5.0)
     social-share-button (1.2.3)
       coffee-rails
