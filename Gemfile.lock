@@ -120,7 +120,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.13.6-x86_64-linux)
       racc (~> 1.4)
-    psych (4.0.3)
+    psych (4.0.4)
       stringio
     racc (1.6.0)
     rack (2.2.3)
