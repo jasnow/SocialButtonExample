@@ -1,19 +1,21 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'rails', '7.0.4.1'
+gem "rails", "7.0.4.1"
 
-gem 'sqlite3'
-gem 'sassc-rails'
-gem 'terser'
-gem 'jquery-rails'
-gem 'turbolinks'
-gem 'jbuilder'
-gem 'social-share-button'
-gem 'brakeman'
+gem "sqlite3"
+gem "sassc-rails"
+gem "terser"
+gem "jquery-rails"
+gem "turbolinks"
+gem "jbuilder"
+gem "social-share-button"
+gem "brakeman"
 
-gem 'sdoc', group: :doc
+gem "sdoc", group: :doc
 
-gem 'tzinfo-data', platforms: [:mingw, :mswin]
+gem "tzinfo-data", platforms: [:mingw, :mswin]
+
+gem "standard", group: [:development, :test]
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby

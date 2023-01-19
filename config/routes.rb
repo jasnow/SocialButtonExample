@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  get 'homes/show'
+  get "homes/show"
 
   resources :homes, only: [:show]
   root to: "homes#show"
