@@ -16,6 +16,8 @@ gem "sdoc", group: :doc
 gem "tzinfo-data", platforms: [:mingw, :mswin]
 
 gem "standard", group: [:development, :test]
+gem "ruby_audit"
+gem "spektr"
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
