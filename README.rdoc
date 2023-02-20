@@ -1,3 +1,6 @@
 == Social Sharing Button Example App
 
-Social Sharing Button Example App.  See http://richonrails.com/articles/adding-social-sharing-buttons-to-your-rails-app for details.
+Social Sharing Button Example App.  See
+http://richonrails.com/articles/adding-social-sharing-buttons-to-your-rails-app for details.
+
+[![Easy "Ruby on Rails CI"](https://github.com/{USERNAME}/{REPO-NAME}/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/{USERNAME}/{REPO-NAME}/actions/workflows/rubyonrails.yml)
