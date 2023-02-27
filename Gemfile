@@ -10,6 +10,7 @@ gem "turbolinks"
 gem "jbuilder"
 gem "social-share-button"
 gem "brakeman"
+gem "webrick"
 
 gem "sdoc", group: :doc
 
