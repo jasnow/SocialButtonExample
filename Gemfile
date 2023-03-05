@@ -16,6 +16,7 @@ gem "sdoc", group: :doc
 
 gem "tzinfo-data", platforms: [:mingw, :mswin]
 
+gem 'simplecov', require: false, group: :test
 gem "standard", group: [:development, :test]
 gem "ruby_audit"
 gem "spektr"
