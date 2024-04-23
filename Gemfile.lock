@@ -353,7 +353,7 @@ DEPENDENCIES
   simplecov
   social-share-button
   spektr
-  sqlite3
+  sqlite3 (~> 1.4)
   standard
   terser
   turbolinks
