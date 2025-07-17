@@ -14,7 +14,7 @@ gem "webrick"
 
 gem "sdoc", group: :doc
 
-gem "tzinfo-data", platforms: [:mingw, :mswin]
+gem "tzinfo-data", platforms: [:windows]
 
 gem 'simplecov', require: false, group: :test
 gem "standard", group: [:development, :test]
