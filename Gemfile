@@ -18,7 +18,6 @@ gem "tzinfo-data", platforms: [:windows]
 
 gem 'simplecov', require: false, group: :test
 gem "standard", group: [:development, :test]
-gem "ruby_audit"
 gem "spektr"
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
